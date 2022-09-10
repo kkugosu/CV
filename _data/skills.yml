@@ -7,9 +7,12 @@
 - skill: analysis, measure theory, topology, linear algebra, abstract algebra, probability theory, functional analysis
   description: analysis through pma, measure theory through zygmund, topology through munkres, abstract algebra through fraleigh other one through online course
   
+# Programming Language
+- skill: Verilog HDL, assembly language, java, javascript, C-sharp, C++, C, Python, swift
+  description: learned from university course or korea university computer club or personally
+  
 # Computer Science
-- skill: computer graphics, cpu design, Verilog HDL, assembly language, java, javascript, C-sharp, C++, C, Python, swift, unity physical 
-physics engine, pygame, mujoco, openai gym
+- skill: computer graphics, cpu design, unity physics engine, pygame, mujoco, openai gym
   description: learned from university course or korea university computer club or personally
   
 # Machine learning
