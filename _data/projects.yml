@@ -1,16 +1,45 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+- project: Make simple environment
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2022 &mdash; 2022
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: unity Earth warm learning with gene algorithm
+  role: Founder & Primary Developer
+  duration: 2016 &mdash; 2016
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+- project: implement RL basic algorithm with pytorch, openai gym, mujoco hopper
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: implement bayesian neural network 
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: guided policy search with ilqr
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: NLP translation with tensorflow LSTM and crf
+  role: Founder & Primary Developer
+  duration: 2019 &mdash; 2019
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: dialogue intention extraction with tensorflow LSTM and crf
+  role: Founder & Primary Developer
+  duration: 2019 &mdash; 2019
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
