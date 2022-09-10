@@ -1,8 +1,18 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: 
+  description: I understand the scope of responsibility, and I have done a lot of conflict mediation, project division, and collaboration.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Math
+- skill: analysis, measure theory, topology, linear algebra, abstract algebra, probability theory, functional analysis
+  description: analysis through pma, measure theory through zygmund, topology through munkres, abstract algebra through fraleigh other one through online course
+  
+# Computer Science
+- skill: computer graphics, cpu design, Verilog HDL, assembly language, java, javascript, C#, C++, C, Python, swift, unity physical 
+physics engine, pygame, mujoco, openai gym
+  description: learned from university course or korea university computer club or personally
+  
+# Machine learning
+- skill: pac theory, reinforcement learning, gaussian process
+  description: learned through Richard S. Sutton, Sergey Levine
+  
