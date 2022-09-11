@@ -1,7 +1,4 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I understand the scope of responsibility, and I have done a lot of conflict mediation, project division, and collaboration.
 
 # Math
 - skill: Math
@@ -13,9 +10,13 @@
   
 # Computer Science
 - skill: Computer Science
-  description: computer graphics, cpu design, unity physics engine, pygame, mujoco, openai gym
+  description: computer graphics, cpu design, unity physics engine, pygame, mujoco, openai gym, (android, ios) application development, web page development
   
 # Machine learning
 - skill: Machine learning
   description: pac theory, reinforcement learning, gaussian process
   
+# Organizational leadership
+- skill: Organizational leadership
+  description: I understand the scope of responsibility, and I have done a lot of conflict mediation, project division, and collaboration.
+
