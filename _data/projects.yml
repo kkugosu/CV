@@ -7,39 +7,38 @@
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
+- project: build and implement RL basic algorithm with pytorch, openai gym, mujoco hopper
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: build and implement bayesian neural network 
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: build and implement guided policy search with ilqr
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: develop NLP translation model with tensorflow LSTM and crf
+  role: Founder & Primary Developer
+  duration: 2019 &mdash; 2019
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: intention extraction with tensorflow LSTM and crf
+  role: Founder & Primary Developer
+  duration: 2019 &mdash; 2019
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
 - project: unity Earth warm learning with gene algorithm
   role: Founder & Primary Developer
   duration: 2016 &mdash; 2016
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-- project: implement RL basic algorithm with pytorch, openai gym, mujoco hopper
-  role: Founder & Primary Developer
-  duration: 2022 &mdash; 2022
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-  
-- project: implement bayesian neural network 
-  role: Founder & Primary Developer
-  duration: 2022 &mdash; 2022
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-  
-- project: guided policy search with ilqr
-  role: Founder & Primary Developer
-  duration: 2022 &mdash; 2022
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-  
-- project: NLP translation with tensorflow LSTM and crf
-  role: Founder & Primary Developer
-  duration: 2019 &mdash; 2019
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-  
-- project: dialogue intention extraction with tensorflow LSTM and crf
-  role: Founder & Primary Developer
-  duration: 2019 &mdash; 2019
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-  
