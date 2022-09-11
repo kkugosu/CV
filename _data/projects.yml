@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Make simple environment
+- project: Make simple RL environment
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
   # url: "#"
@@ -25,15 +25,21 @@
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
   
-- project: develop NLP translation model with tensorflow LSTM and crf
+- project: intention extraction with pytorch LSTM and crf
   role: Founder & Primary Developer
   duration: 2019 &mdash; 2019
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
   
-- project: intention extraction with pytorch LSTM and crf
+- project: develop NLP translation model with tensorflow attention and gru
   role: Founder & Primary Developer
-  duration: 2019 &mdash; 2019
+  duration: 2018 &mdash; 2018
+  # url: "#"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  
+- project: make gru with tensorflow
+  role: Founder & Primary Developer
+  duration: 2017 &mdash; 2017
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
   
