@@ -31,7 +31,7 @@
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
   
-- project: intention extraction with tensorflow LSTM and crf
+- project: intention extraction with pytorch LSTM and crf
   role: Founder & Primary Developer
   duration: 2019 &mdash; 2019
   # url: "#"
