@@ -4,47 +4,50 @@
 - project: Make simple RL environment
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
+  url: "https://github.com/kkugosu/custom_gym"
+  
 - project: build and implement RL basic algorithm with pytorch, openai gym, mujoco hopper
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: "https://github.com/kkugosu/RL_BASIC"
   
 - project: build and implement bayesian neural network 
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: "https://github.com/kkugosu/bayesian_neural_network"
   
 - project: build and implement guided policy search with ilqr
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: "https://github.com/kkugosu/RL_MODELBASED"
+
+- project: build and implement unsupervised RL algorithm with pytorch, openai gym, mujoco hopper
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  url: "https://github.com/kkugosu/RL_META"
   
 - project: intention extraction with pytorch LSTM and crf
   role: Founder & Primary Developer
   duration: 2019 &mdash; 2019
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-  
+  url: "https://github.com/kkugosu/PYTORCH---dialogue_intention_extraction"
+   
 - project: develop NLP translation model with tensorflow attention and gru
   role: Founder & Primary Developer
   duration: 2018 &mdash; 2018
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: "https://github.com/kkugosu/TENSORFLOW---machine_translation"
   
 - project: make gru with tensorflow
   role: Founder & Primary Developer
   duration: 2017 &mdash; 2017
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: "https://github.com/kkugosu/PYTHON-Tensorflow---Jupyter---gru"
+  
+- project: make seq2seq with tensorflow
+  role: Founder & Primary Developer
+  duration: 2017 &mdash; 2017
+  url: "https://github.com/kkugosu/PYTHON-Tensorflow---Jupiter---seq2seq"
   
 - project: unity Earth warm learning with gene algorithm
   role: Founder & Primary Developer
   duration: 2016 &mdash; 2016
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: "https://github.com/kkugosu/C_sharp---Unity---moving_Earthworm"
+  
