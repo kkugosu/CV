@@ -1,13 +1,13 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Korea University
-  year: 2012
-  summary: got first place at General Physics class of Korea Univertisy's science and engineering department
-  
 - award: Organizational Leadership
   organization: KUCC korea university computer club
   year: 2015
   summary: Chairman of KUCC(korea university computer club) 2015
+  
+- award: Outstanding Achievement
+  organization: Korea University
+  year: 2012
+  summary: got first place at General Physics class of Korea Univertisy's science and engineering department
   
 - award: Outstanding Achievement
   organization: Gyeongsangnam-do Korea
