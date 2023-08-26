@@ -14,10 +14,10 @@ resume_name:                    "Ha Jong Su (Emmett Hughes)"
 resume_title:                   "RL Researcher"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "hjs9402@gmail.com"
+resume_contact_email:           "emmett.hughes.rl@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "82-10-9067-5096"
+resume_contact_telephone:       "82-10-3562-0770"
 resume_contact_address:         "Changwon-si, Gyeongsangnam-do"
 
 resume_header_contact_info:     "Changwon-si, Gyeongsangnam-do • 82-10-9067-5096 • hjs9402@gmail.com"
