@@ -36,16 +36,17 @@
   duration: 2018 &mdash; 2018
   url: "https://github.com/kkugosu/TENSORFLOW---machine_translation"
   
-- project: Build gru with tensorflow
-  role: tensorflow 프레임워크로 gru 내부구조 와 데이터흐름 시각화 및 분석
-  duration: 2017 &mdash; 2017
-  url: "https://github.com/kkugosu/PYTHON-Tensorflow---Jupyter---gru"
   
 - project: Implement seq2seq with tensorflow
   role: tensorflow로 seq2seq모델 학습
   duration: 2017 &mdash; 2017
   url: "https://github.com/kkugosu/PYTHON-Tensorflow---Jupiter---seq2seq"
   
+- project: Build gru with tensorflow
+  role: tensorflow 프레임워크로 gru 내부구조 와 데이터흐름 시각화 및 분석
+  duration: 2017 &mdash; 2017
+  url: "https://github.com/kkugosu/PYTHON-Tensorflow---Jupyter---gru"
+
 - project: unity physical simulation Earth warm learning with gene algorithm
   role: unity로 3d환경을 구축후 유전자 알고리즘으로 앞으로 나아가는 지렁이들을 만들어서 실험
   duration: 2016 &mdash; 2016
