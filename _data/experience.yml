@@ -1,14 +1,19 @@
 # Jobs
 # VP of Global Communications
-- company: Korea University
+
+- company: RealtimeVisual
+  position: RL researcher
+  duration: 2023.12 &mdash; Present
+
+- company: England english academy
   position: Student
-  duration: 2012 &mdash; 2016
-  
-- company: Korea University
-  position: Teaching Assistant
-  duration: 2017 &mdash; 2019
-  
+  duration: 2023.03 &mdash; 2023.07
+
+- company: Phillipine english academy
+  position: Student
+  duration: 2023.01 &mdash; 2023.03
+
 - company: Millitary
   position: soldier
-  duration: 2021 &mdash; 2022
+  duration: 2021.02 &mdash; 2022.10
   

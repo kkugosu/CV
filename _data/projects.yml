@@ -1,54 +1,63 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: Path Generation 
+  role: Generating optimal path by contrastive multi skill RL 
+  duration: 2023 &mdash; Present 
+  url: "https://github.com/kkugosu/PathFinding"
+
+- project: Basic Network Security
+  role: build basic concept of Network in C
+  duration: 2024 &mdash; Present
+  url: "https://github.com/kkugosu/SecurityPortfolio"
 
 - project: Build Simple RL environment
-  role: Make simple enironment to verify algorithm 파이게임을 활용해서 openai gym과 같은 환경 구축
+  role: Make simple simulation enironment to verify algorithm with pygame library
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/custom_gym"
   
 - project: Implement RL basic algorithms with pytorch, openai gym, mujoco hopper
-  role: policy gradient, dqn, trpo, ppo, ac, sac ddpg 등의 알고리즘을 구현 및 비교
+  role: policy gradient, dqn, trpo, ppo, ac, sac ddpg implement and compare
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/RL_BASIC"
   
 - project: Implement Uncertainty Estimation metrics
-  role: MDN, bayesian nerual network, gaussian process 등을 실험 및 비교
+  role: Implementation and Improvement of MDN, bayesian nerual network, gaussian process 
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/bayesian_neural_network"
   
 - project: Implement Uncertainty Aware Reinforcemnet learning
-  role: bayesian deep neural network 를 활용해서 environement의 uncertainty 를 모델링후 iLQR 로 학습
+  role: Training ILQR while estimating uncertainty powered by bayesian deep neural network 
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/RL_MODELBASED"
 
 - project: Implement Contrasive Multiskill RL algorithm with pytorch, openai gym, mujoco hopper
-  role: 모든 contrasive multiskill rl을 구현후 비교 분석
+  role: Implementing every contrasive multiskill rl and analysing
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/RL_META"
   
 - project: Dialogue system intention extraction Research with pytorch LSTM and crf
-  role: 대화시스템이 발화자의 의도에따라서 양상이 달라진다는점에 착안하여, 대화를 보고 intention을 추출해보며, 추론한 intention이 input으로 준 문맥의 길이에 따라서 달라진다는점을 분석
+  role: Based on the observation that the characteristics of a conversational system change according to the speaker's intent, I analyzed how the extracted intention from a conversation varies depending on the length of the context provided as input
   duration: 2019 &mdash; 2019
   url: "https://github.com/kkugosu/PYTORCH---dialogue_intention_extraction"
    
 - project: Develop NLP translation model with tensorflow attention mechanism and gru
-  role: tensorflow 프레임워크 내에 attention mechanism 를 활용하여 체코어 영어사이 translation 수행
+  role: Performing translation between Czech and English using the attention mechanism within the TensorFlow framework
   duration: 2018 &mdash; 2018
   url: "https://github.com/kkugosu/TENSORFLOW---machine_translation"
   
   
 - project: Implement seq2seq with tensorflow
-  role: tensorflow로 seq2seq모델 학습
+  role: training seq2seq model with tensorflow
   duration: 2017 &mdash; 2017
   url: "https://github.com/kkugosu/PYTHON-Tensorflow---Jupiter---seq2seq"
   
 - project: Build gru with tensorflow
-  role: tensorflow 프레임워크로 gru 내부구조 와 데이터흐름 시각화 및 분석
+  role: Visualizing and analyzing the internal structure and data flow of GRU within the TensorFlow framework
   duration: 2017 &mdash; 2017
   url: "https://github.com/kkugosu/PYTHON-Tensorflow---Jupyter---gru"
 
 - project: unity physical simulation Earth warm learning with gene algorithm
-  role: unity로 3d환경을 구축후 유전자 알고리즘으로 앞으로 나아가는 지렁이들을 만들어서 실험
+  role: Building a 3D environment with Unity and conducting experiments with worms moving forward using genetic algorithms
   duration: 2016 &mdash; 2016
   url: "https://github.com/kkugosu/C_sharp---Unity---moving_Earthworm"
   
