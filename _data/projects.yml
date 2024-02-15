@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 - project: Path Generation 
-  role: Generating optimal path by contrastive multi skill RL 
+  role: Generating optimal path by contrastive multi skill RL <br> <br> <img src="https://github.com/kkugosu/PathFinding/assets/24292848/8f4fdf2b-2ee9-4903-848e-2d814cf58d47">
   duration: 2023 &mdash; Present 
   url: "https://github.com/kkugosu/PathFinding"
 
