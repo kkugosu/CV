@@ -1,21 +1,21 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: 모두의 연구소 자연어처리 챗봇분석
+- organization: NLP chatbot analysis at modulab in gangnam
   role: 기존코드 분석및 개발
   year: 2018
   url: None
   summary: 다양한 실무에서 일하는 분들과 함께 코드를 분석하고 transformer이전의 논문들에 대한 리뷰 및 도메인의 특징에 대해서 토론하는 시간을 가지게 되었습니다
 
-- organization: tensorflow KR 페이스북 그룹 비숍 prml 스터디
+- organization: bishop prml study (tensorflow KR group)
   role: prml책을 세세하게 공부하자고 사람들을 모집후 리드. 서로 이해가 안되는부분 질문 및 분석
   year: 2021
   url: None
-  summary: 책에 있는 내용중 98퍼센트 정도 이해하게 되었고 6단원은 추후 bayesian deep learning 및 gaussian process를 이해하는데 비교 분석을 함으로써 큰 도움이됨.
+  summary: becomming strong foundation of bayesian deep learning and reinforcement learning.
 
-- organization: RL 코리아 페이스북 그룹 레빈교수님 강의 스터디
+- organization: levine RL lecture study (RL korea group)
   role: 레빈교수님의 강의를 같이 공부하자고 사람들을 모집후 리드. 서로 이해가 안되는부분 질문 및 분석
   year: 2021
   url: None
-  summary: 처음 몇단원은 다들 열심히 했지만 어느순간부터 다른분들은 회사일정에 지치셔서 결국 혼자서 완주하게됨. 오히려 이미 RL공부를 끝낸 다른분들이랑 토론을 많이함.
+  summary: got to know the difference between distributional shift problem and local optimality problem
   

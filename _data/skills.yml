@@ -2,20 +2,20 @@
 
 # Math
 - skill: Math
-  description: probability theory, analysis, measure theory, topology, linear algebra, abstract algebra, (functional analysis)
+  description: probability theory, analysis, measure theory, topology, linear algebra, abstract algebra, (functional analysis..)
 
 # Programming Language
 - skill: Programming Language
-  description: Python, (Verilog HDL, assembly language, java, javascript, C-sharp, C++, C,  swift)
+  description: Python, C, (Verilog HDL, assembly language, java, javascript, C-sharp, C++, C,  swift..)
   
 # Computer Science
 - skill: Computer Science
-  description: pygame, mujoco, openai gym, (computer graphics, cpu design, unity physics engine,  (android, ios) application development, web page development)
+  description: Pygame, Pytorch CUDA programming, TCP socket programming in C (computer graphics, cpu design, unity physics engine,  (android, ios) application development, web page development)
   
 # Machine learning
 - skill: Machine learning
-  description: information theory (pac theory, uncertainty), active learning (reinforcement learning), meta learning(multi skill RL)
+  description: Information theory, Pac theory, Uncertainty estimation, Active learning, Reinforcement learning, Meta learning
   
   # Domain
 - skill: Domain
-  description: NLP(dialogue system), physical simulation(openai gym, mujoco)
+  description: NLP, Physical simulation in unreal engine, openai gym and mujoco

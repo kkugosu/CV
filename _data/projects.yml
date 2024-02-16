@@ -1,36 +1,36 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-- project: Path Generation 
-  role: Generating optimal path by contrastive multi skill RL <br> <br> <img src="https://github.com/kkugosu/PathFinding/assets/24292848/8f4fdf2b-2ee9-4903-848e-2d814cf58d47">
+- project: Optimal Path Generation 
+  role: Generating optimal path with contrastive multi skill RL <br> <br> <img width="400" src="https://github.com/kkugosu/PathFinding/assets/24292848/8f4fdf2b-2ee9-4903-848e-2d814cf58d47">
   duration: 2023 &mdash; Present 
   url: "https://github.com/kkugosu/PathFinding"
 
 - project: Basic Network Security
-  role: build basic concept of Network in C
+  role: Implement basic topology in C
   duration: 2024 &mdash; Present
   url: "https://github.com/kkugosu/SecurityPortfolio"
 
 - project: Build Simple RL environment
-  role: Make simple simulation enironment to verify algorithm with pygame library
+  role: Made simple simulation enironment to verify algorithm with pygame library <br> <br> <img width="400" src="https://user-images.githubusercontent.com/24292848/188650432-832fcf56-af25-47dd-b120-69241ca4d2d7.png">
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/custom_gym"
   
-- project: Implement RL basic algorithms with pytorch, openai gym, mujoco hopper
-  role: policy gradient, dqn, trpo, ppo, ac, sac ddpg implement and compare
+- project: Implemented RL basic algorithms with pytorch, openai gym, mujoco hopper
+  role: policy gradient, dqn, trpo, ppo, ac, sac ddpg implement and compare <br> <br> <img width="400" src = "https://user-images.githubusercontent.com/24292848/181654772-e5f6df53-052b-4cd8-887a-cb63e774a9ac.png">
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/RL_BASIC"
   
-- project: Implement Uncertainty Estimation metrics
-  role: Implementation and Improvement of MDN, bayesian nerual network, gaussian process 
+- project: Implemented Uncertainty Estimation metrics
+  role: Implementation and Improvement of MDN, bayesian nerual network, gaussian process <br> <br> <img width="400" src="https://github.com/kkugosu/Uncertainty-Estimation/assets/24292848/e821b083-e3b0-48c8-9d28-4023650d8881">
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/bayesian_neural_network"
   
-- project: Implement Uncertainty Aware Reinforcemnet learning
+- project: Implemented Uncertainty Aware Reinforcemnet learning
   role: Training ILQR while estimating uncertainty powered by bayesian deep neural network 
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/RL_MODELBASED"
 
-- project: Implement Contrasive Multiskill RL algorithm with pytorch, openai gym, mujoco hopper
+- project: Implemented Contrasive Multiskill RL algorithm with pytorch, openai gym, mujoco hopper
   role: Implementing every contrasive multiskill rl and analysing
   duration: 2022 &mdash; 2022
   url: "https://github.com/kkugosu/RL_META"
@@ -44,7 +44,6 @@
   role: Performing translation between Czech and English using the attention mechanism within the TensorFlow framework
   duration: 2018 &mdash; 2018
   url: "https://github.com/kkugosu/TENSORFLOW---machine_translation"
-  
   
 - project: Implement seq2seq with tensorflow
   role: training seq2seq model with tensorflow

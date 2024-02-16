@@ -23,7 +23,7 @@ resume_contact_address:         "Changwon-si, Gyeongsangnam-do"
 resume_header_contact_info:     "Changwon-si, Gyeongsangnam-do • 82-10-9067-5096 • hjs9402@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p> My Dream is make AI which behave exactly same as human, I mainly studeid Dialogue system in NLP domain
+resume_header_intro: "<p> My Dream is build AI system which behave exactly same as human, I mainly studeid Dialogue system in NLP domain
 and also studied reinforcement learning in Robotics domain.  </p>"
 
 # use "yes" to display the email contact button,
