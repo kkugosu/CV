@@ -2,19 +2,20 @@
 # comment out the urls if you do not wish to display them
 
 - organization: NLP chatbot analysis at modulab in gangnam
-  role: 기존코드 분석및 개발
+  role: Analyze and develop existing code. <br>
   year: 2018
   url: None
-  summary: 다양한 실무에서 일하는 분들과 함께 코드를 분석하고 transformer이전의 논문들에 대한 리뷰 및 도메인의 특징에 대해서 토론하는 시간을 가지게 되었습니다
+  summary: I have had the opportunity to analyze code together with professionals working in various fields and to have discussions reviewing papers before the era of transformers and discussing the characteristics of the domain.
 
-- organization: bishop prml study (tensorflow KR group)
-  role: prml책을 세세하게 공부하자고 사람들을 모집후 리드. 서로 이해가 안되는부분 질문 및 분석
+
+- organization: bishop PRML study (tensorflow KR group)
+  role: Recruit people to study PRML (Pattern Recognition and Machine Learning) in detail and lead them. Ask questions and analyze areas where mutual understanding is lacking. <br>
   year: 2021
   url: None
   summary: becomming strong foundation of bayesian deep learning and reinforcement learning.
 
 - organization: levine RL lecture study (RL korea group)
-  role: 레빈교수님의 강의를 같이 공부하자고 사람들을 모집후 리드. 서로 이해가 안되는부분 질문 및 분석
+  role: Recruit people to study Professor Levin's lectures together and lead. Ask questions and analyze areas where mutual understanding is lacking. <br>
   year: 2021
   url: None
   summary: got to know the difference between distributional shift problem and local optimality problem

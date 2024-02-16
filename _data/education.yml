@@ -2,7 +2,7 @@
 - degree: Master of Computer Science
   uni: Korea University
   year: 2017 &mdash; 2019
-  summary: dialogue intention extract by passive learning & time series data analysis trick (HMM, CRF, LSTM)
+  summary: dialogue intention extraction with time series data analysis trick (HMM, CRF, LSTM)
   
 - degree: Bachelor of Computer Science, Mechanical engineering (double major)
   uni: Korea University
